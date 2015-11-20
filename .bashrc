@@ -10,7 +10,6 @@ fi
 
 # User specific aliases and functions
 export PATH=$PATH:~/devscripts/trunk/bin
-export SVNMIRROR=zch127svn01.ap.mot-mobility.com
 
 #for svn conflict editing
 EDITOR=vi
